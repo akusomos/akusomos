@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akusomos
 - 👀 I’m interested in everything technical...Who am I kidding...I'm a car nut with a bit of coding skills ;)
-- 💞️ I’m looking to collaborate on iteresting projects in Java, Openedge (App/Webservers, DB), Javascript (JQuery, Angular), Oracle DB, anything you wan to throw at me..
+- 💞️ I’m looking to collaborate on interesting projects in Java, Openedge (App/Webservers, DB), Javascript (JQuery, Angular), Oracle DB, anything you wan to throw at me..
 - 📫 You can reah me in LinkdIn
 
 <!---
